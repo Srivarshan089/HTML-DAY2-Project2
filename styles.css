@@ -1,0 +1,12 @@
+
+table,th,td{
+    border:1px dotted pink;
+    border-collapse: collapse;
+
+}
+body{
+    background-image: url("https://th.bing.com/th/id/R.d226e8ccd15ba748c3f33b93988a61b2?rik=PpT1Wm0dt%2fJozQ&riu=http%3a%2f%2fwww.aajkikhabar.com%2fen%2fwp-content%2fuploads%2f2019%2f02%2fIPL-Tournament-1-1.jpg&ehk=oANTwedvnkacVHJP8fauvjcyOrcbROWzTSF5FP01O0w%3d&risl=&pid=ImgRaw&r=0");
+    background-position: center;
+    background-size: cover;
+    color: lavenderblush;
+}
